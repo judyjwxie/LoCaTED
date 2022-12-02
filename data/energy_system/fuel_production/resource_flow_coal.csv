@@ -1,0 +1,90 @@
+START,END,VAL,TON
+Alabama,Alabama,1569,11578
+Alabama,Ohio,1,11
+Alabama,West Virginia,2,14
+Alaska,Alaska,42,827
+Colorado,California,51,1795
+Colorado,Colorado,361,8043
+Colorado,Florida,65,2346
+Colorado,Kentucky,19,649
+Colorado,New Mexico,23,501
+Colorado,Texas,49,1807
+Colorado,Utah,133,4087
+Colorado,Wyoming,1,16
+Illinois,Alabama,85,2721
+Illinois,Florida,59,1362
+Illinois,Illinois,625,11083
+Illinois,Indiana,367,11120
+Illinois,Missouri,9,243
+Indiana,Indiana,894,21941
+Indiana,Kentucky,21,554
+Indiana,Missouri,3,84
+Indiana,Wisconsin,4,99
+Kentucky,Florida,325,6207
+Kentucky,Indiana,196,3303
+Kentucky,Kentucky,817,17641
+Kentucky,Ohio,158,2702
+Kentucky,Virginia,670,12075
+Louisiana,Louisiana,212,7699
+Missouri,Kansas,30,557
+Montana,Arizona,4,347
+Montana,Minnesota,74,5023
+Montana,Montana,209,7928
+Montana,North Dakota,14,997
+Montana,Washington,227,11765
+Montana,Wisconsin,59,3699
+Montana,Wyoming,1,33
+New Mexico,Arizona,179,6761
+New Mexico,New Mexico,379,12488
+North Dakota,North Dakota,850,50216
+Ohio,Maryland,151,3923
+Ohio,Ohio,659,16098
+Ohio,Pennsylvania,124,3305
+Ohio,West Virginia,206,4826
+Oklahoma,Oklahoma,53,1026
+Pennsylvania,California,1,4
+Pennsylvania,Maryland,463,10310
+Pennsylvania,Pennsylvania,1750,31673
+Pennsylvania,West Virginia,31,675
+Tennessee,Georgia,2,3
+Tennessee,Indiana,1,1
+Tennessee,New York,4,7
+Texas,Texas,1122,33817
+Utah,California,177,5251
+Utah,Idaho,20,580
+Utah,Utah,400,12939
+Virginia,Alabama,28,426
+Virginia,Georgia,37,365
+Virginia,South Carolina,24,426
+Virginia,West Virginia,72,1911
+West Virginia,Louisiana,0,1112
+West Virginia,Maryland,1121,13374
+West Virginia,North Carolina,158,3183
+West Virginia,Ohio,1493,30476
+West Virginia,Pennsylvania,1095,27628
+West Virginia,Virginia,1692,13245
+West Virginia,West Virginia,2061,40786
+West Virginia,Wisconsin,34,904
+Wyoming,Alabama,71,5988
+Wyoming,Arizona,38,3185
+Wyoming,Arkansas,163,12863
+Wyoming,California,0,3
+Wyoming,Colorado,53,4670
+Wyoming,Georgia,50,5257
+Wyoming,Illinois,207,16549
+Wyoming,Indiana,145,7640
+Wyoming,Iowa,188,14509
+Wyoming,Kansas,68,5121
+Wyoming,Kentucky,82,6992
+Wyoming,Louisiana,88,7784
+Wyoming,Michigan,168,13738
+Wyoming,Minnesota,96,8025
+Wyoming,Missouri,386,28080
+Wyoming,Nebraska,56,5063
+Wyoming,Oklahoma,82,7192
+Wyoming,Tennessee,16,1364
+Wyoming,Texas,552,54152
+Wyoming,Utah,0,3
+Wyoming,Washington,19,2237
+Wyoming,Wisconsin,251,20079
+Wyoming,Wyoming,780,29324

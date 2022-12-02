@@ -1,0 +1,1729 @@
+state,tech,scenario,value
+AL,biopower,low,2.4
+AL,biopower,mid,3.2
+AL,biopower,high,4.0
+AR,biopower,low,4.2
+AR,biopower,mid,4.4
+AR,biopower,high,4.6
+AZ,biopower,low,3.1
+AZ,biopower,mid,3.2
+AZ,biopower,high,15.2
+CA,biopower,low,1.4
+CA,biopower,mid,2.8
+CA,biopower,high,8.0
+CO,biopower,low,3.2
+CO,biopower,mid,3.2
+CO,biopower,high,7.899999999999999
+CT,biopower,low,12.55
+CT,biopower,mid,22.7
+CT,biopower,high,32.85
+DE,biopower,low,5.0
+DE,biopower,mid,5.0
+DE,biopower,high,5.0
+FL,biopower,low,4.0
+FL,biopower,mid,6.4
+FL,biopower,high,18.0
+GA,biopower,low,5.2
+GA,biopower,mid,7.300000000000001
+GA,biopower,high,45.35
+IA,biopower,low,2.5
+IA,biopower,mid,4.0
+IA,biopower,high,4.4
+ID,biopower,low,1.9
+ID,biopower,mid,2.7
+ID,biopower,high,3.2
+IL,biopower,low,3.2
+IL,biopower,mid,3.3
+IL,biopower,high,4.800000000000001
+IN,biopower,low,3.2
+IN,biopower,mid,3.2
+IN,biopower,high,6.899999999999999
+KS,biopower,low,4.1
+KS,biopower,mid,4.6
+KS,biopower,high,5.1
+KY,biopower,low,1.6
+KY,biopower,mid,2.4
+KY,biopower,high,3.2
+LA,biopower,low,2.7
+LA,biopower,mid,4.0
+LA,biopower,high,7.800000000000001
+MA,biopower,low,2.15
+MA,biopower,mid,3.25
+MA,biopower,high,4.425000000000001
+MD,biopower,low,2.3
+MD,biopower,mid,3.0
+MD,biopower,high,3.75
+ME,biopower,low,2.95
+ME,biopower,mid,5.85
+ME,biopower,high,8.875
+MI,biopower,low,3.2
+MI,biopower,mid,4.0
+MI,biopower,high,4.800000000000001
+MN,biopower,low,2.4
+MN,biopower,mid,3.2
+MN,biopower,high,15.7
+MO,biopower,low,3.0
+MO,biopower,mid,3.0
+MO,biopower,high,3.2
+MS,biopower,low,1.6
+MS,biopower,mid,1.6
+MS,biopower,high,1.6
+MT,biopower,low,1.6
+MT,biopower,mid,1.6
+MT,biopower,high,1.6
+NC,biopower,low,1.675
+NC,biopower,mid,3.25
+NC,biopower,high,5.25
+ND,biopower,low,2.7
+ND,biopower,mid,4.0
+ND,biopower,high,7.800000000000001
+NE,biopower,low,5.2
+NE,biopower,mid,5.6
+NE,biopower,high,6.0
+NH,biopower,low,8.8
+NH,biopower,mid,16.0
+NH,biopower,high,45.5
+NJ,biopower,low,3.825
+NJ,biopower,mid,7.2
+NJ,biopower,high,9.6
+NM,biopower,low,3.2
+NM,biopower,mid,3.2
+NM,biopower,high,3.2
+NV,biopower,low,5.4
+NV,biopower,mid,7.6
+NV,biopower,high,9.8
+NY,biopower,low,3.6
+NY,biopower,mid,6.399999999999999
+NY,biopower,high,6.4
+OH,biopower,low,2.8
+OH,biopower,mid,4.0
+OH,biopower,high,8.8
+OK,biopower,low,4.800000000000001
+OK,biopower,mid,4.800000000000001
+OK,biopower,high,4.800000000000001
+OR,biopower,low,1.6
+OR,biopower,mid,4.8
+OR,biopower,high,4.800000000000001
+PA,biopower,low,3.2
+PA,biopower,mid,3.25
+PA,biopower,high,8.3
+RI,biopower,low,4.800000000000001
+RI,biopower,mid,6.4
+RI,biopower,high,21.05
+SC,biopower,low,3.175
+SC,biopower,mid,3.2
+SC,biopower,high,13.6
+SD,biopower,low,2.7
+SD,biopower,mid,4.0
+SD,biopower,high,7.800000000000001
+TN,biopower,low,1.9
+TN,biopower,mid,2.5
+TN,biopower,high,3.45
+TX,biopower,low,3.2
+TX,biopower,mid,4.4
+TX,biopower,high,9.6
+UT,biopower,low,3.2
+UT,biopower,mid,3.2
+UT,biopower,high,4.0
+VA,biopower,low,4.8
+VA,biopower,mid,6.4
+VA,biopower,high,13.2
+VT,biopower,low,3.2
+VT,biopower,mid,4.8
+VT,biopower,high,6.4
+WA,biopower,low,4.949999999999999
+WA,biopower,mid,5.399999999999999
+WA,biopower,high,15.7
+WI,biopower,low,2.2
+WI,biopower,mid,3.0
+WI,biopower,high,6.399999999999999
+WV,biopower,low,3.2
+WV,biopower,mid,3.2
+WV,biopower,high,3.2
+WY,biopower,low,2.7
+WY,biopower,mid,4.0
+WY,biopower,high,7.800000000000001
+AL,coal,low,391.85
+AL,coal,mid,720.0
+AL,coal,high,912.85
+AR,coal,low,636.75
+AR,coal,mid,664.5
+AR,coal,high,692.25
+AZ,coal,low,916.2
+AZ,coal,mid,916.2
+AZ,coal,high,916.2
+CA,coal,low,391.85
+CA,coal,mid,720.0
+CA,coal,high,912.85
+CO,coal,low,856.8
+CO,coal,mid,856.8
+CO,coal,high,856.8
+CT,coal,low,391.85
+CT,coal,mid,720.0
+CT,coal,high,912.85
+DE,coal,low,391.85
+DE,coal,mid,720.0
+DE,coal,high,912.85
+FL,coal,low,391.85
+FL,coal,mid,720.0
+FL,coal,high,912.85
+GA,coal,low,391.85
+GA,coal,mid,720.0
+GA,coal,high,912.85
+IA,coal,low,922.5
+IA,coal,mid,922.5
+IA,coal,high,922.5
+ID,coal,low,391.85
+ID,coal,mid,720.0
+ID,coal,high,912.85
+IL,coal,low,614.075
+IL,coal,mid,998.05
+IL,coal,high,1382.025
+IN,coal,low,804.5
+IN,coal,mid,804.5
+IN,coal,high,804.5
+KS,coal,low,391.85
+KS,coal,mid,720.0
+KS,coal,high,912.85
+KY,coal,low,702.5999999999999
+KY,coal,mid,746.4
+KY,coal,high,790.2
+LA,coal,low,391.85
+LA,coal,mid,720.0
+LA,coal,high,912.85
+MA,coal,low,391.85
+MA,coal,mid,720.0
+MA,coal,high,912.85
+MD,coal,low,391.85
+MD,coal,mid,720.0
+MD,coal,high,912.85
+ME,coal,low,391.85
+ME,coal,mid,720.0
+ME,coal,high,912.85
+MI,coal,low,391.85
+MI,coal,mid,720.0
+MI,coal,high,912.85
+MN,coal,low,391.85
+MN,coal,mid,720.0
+MN,coal,high,912.85
+MO,coal,low,474.75
+MO,coal,mid,649.5
+MO,coal,high,824.25
+MS,coal,low,513.7
+MS,coal,mid,513.7
+MS,coal,high,513.7
+MT,coal,low,115.7
+MT,coal,mid,115.7
+MT,coal,high,115.7
+NC,coal,low,909.5
+NC,coal,mid,909.5
+NC,coal,high,909.5
+ND,coal,low,391.85
+ND,coal,mid,720.0
+ND,coal,high,912.85
+NE,coal,low,370.5
+NE,coal,mid,493.0
+NE,coal,high,615.5
+NH,coal,low,391.85
+NH,coal,mid,720.0
+NH,coal,high,912.85
+NJ,coal,low,391.85
+NJ,coal,mid,720.0
+NJ,coal,high,912.85
+NM,coal,low,391.85
+NM,coal,mid,720.0
+NM,coal,high,912.85
+NV,coal,low,242.0
+NV,coal,mid,242.0
+NV,coal,high,242.0
+NY,coal,low,391.85
+NY,coal,mid,720.0
+NY,coal,high,912.85
+OH,coal,low,391.85
+OH,coal,mid,720.0
+OH,coal,high,912.85
+OK,coal,low,391.85
+OK,coal,mid,720.0
+OK,coal,high,912.85
+OR,coal,low,391.85
+OR,coal,mid,720.0
+OR,coal,high,912.85
+PA,coal,low,585.0
+PA,coal,mid,585.0
+PA,coal,high,585.0
+RI,coal,low,391.85
+RI,coal,mid,720.0
+RI,coal,high,912.85
+SC,coal,low,1243.0
+SC,coal,mid,1243.0
+SC,coal,high,1243.0
+SD,coal,low,391.85
+SD,coal,mid,720.0
+SD,coal,high,912.85
+TN,coal,low,391.85
+TN,coal,mid,720.0
+TN,coal,high,912.85
+TX,coal,low,943.0
+TX,coal,mid,1008.0
+TX,coal,high,1401.7
+UT,coal,low,391.85
+UT,coal,mid,720.0
+UT,coal,high,912.85
+VA,coal,low,668.0
+VA,coal,mid,668.0
+VA,coal,high,668.0
+VT,coal,low,391.85
+VT,coal,mid,720.0
+VT,coal,high,912.85
+WA,coal,low,391.85
+WA,coal,mid,720.0
+WA,coal,high,912.85
+WI,coal,low,796.9
+WI,coal,mid,998.8
+WI,coal,high,1200.7
+WV,coal,low,807.5
+WV,coal,mid,807.5
+WV,coal,high,807.5
+WY,coal,low,93.75
+WY,coal,mid,105.5
+WY,coal,high,207.925
+AL,csp,low,125.75
+AL,csp,mid,133.4
+AL,csp,high,257.5
+AR,csp,low,125.75
+AR,csp,mid,133.4
+AR,csp,high,257.5
+AZ,csp,low,280.0
+AZ,csp,mid,280.0
+AZ,csp,high,280.0
+CA,csp,low,133.4
+CA,csp,mid,133.4
+CA,csp,high,250.0
+CO,csp,low,125.75
+CO,csp,mid,133.4
+CO,csp,high,257.5
+CT,csp,low,125.75
+CT,csp,mid,133.4
+CT,csp,high,257.5
+DE,csp,low,125.75
+DE,csp,mid,133.4
+DE,csp,high,257.5
+FL,csp,low,125.75
+FL,csp,mid,133.4
+FL,csp,high,257.5
+GA,csp,low,125.75
+GA,csp,mid,133.4
+GA,csp,high,257.5
+IA,csp,low,125.75
+IA,csp,mid,133.4
+IA,csp,high,257.5
+ID,csp,low,125.75
+ID,csp,mid,133.4
+ID,csp,high,257.5
+IL,csp,low,125.75
+IL,csp,mid,133.4
+IL,csp,high,257.5
+IN,csp,low,125.75
+IN,csp,mid,133.4
+IN,csp,high,257.5
+KS,csp,low,125.75
+KS,csp,mid,133.4
+KS,csp,high,257.5
+KY,csp,low,125.75
+KY,csp,mid,133.4
+KY,csp,high,257.5
+LA,csp,low,125.75
+LA,csp,mid,133.4
+LA,csp,high,257.5
+MA,csp,low,125.75
+MA,csp,mid,133.4
+MA,csp,high,257.5
+MD,csp,low,125.75
+MD,csp,mid,133.4
+MD,csp,high,257.5
+ME,csp,low,125.75
+ME,csp,mid,133.4
+ME,csp,high,257.5
+MI,csp,low,125.75
+MI,csp,mid,133.4
+MI,csp,high,257.5
+MN,csp,low,125.75
+MN,csp,mid,133.4
+MN,csp,high,257.5
+MO,csp,low,125.75
+MO,csp,mid,133.4
+MO,csp,high,257.5
+MS,csp,low,125.75
+MS,csp,mid,133.4
+MS,csp,high,257.5
+MT,csp,low,125.75
+MT,csp,mid,133.4
+MT,csp,high,257.5
+NC,csp,low,125.75
+NC,csp,mid,133.4
+NC,csp,high,257.5
+ND,csp,low,125.75
+ND,csp,mid,133.4
+ND,csp,high,257.5
+NE,csp,low,125.75
+NE,csp,mid,133.4
+NE,csp,high,257.5
+NH,csp,low,125.75
+NH,csp,mid,133.4
+NH,csp,high,257.5
+NJ,csp,low,125.75
+NJ,csp,mid,133.4
+NJ,csp,high,257.5
+NM,csp,low,125.75
+NM,csp,mid,133.4
+NM,csp,high,257.5
+NV,csp,low,88.025
+NV,csp,mid,100.35
+NV,csp,high,112.675
+NY,csp,low,125.75
+NY,csp,mid,133.4
+NY,csp,high,257.5
+OH,csp,low,125.75
+OH,csp,mid,133.4
+OH,csp,high,257.5
+OK,csp,low,125.75
+OK,csp,mid,133.4
+OK,csp,high,257.5
+OR,csp,low,125.75
+OR,csp,mid,133.4
+OR,csp,high,257.5
+PA,csp,low,125.75
+PA,csp,mid,133.4
+PA,csp,high,257.5
+RI,csp,low,125.75
+RI,csp,mid,133.4
+RI,csp,high,257.5
+SC,csp,low,125.75
+SC,csp,mid,133.4
+SC,csp,high,257.5
+SD,csp,low,125.75
+SD,csp,mid,133.4
+SD,csp,high,257.5
+TN,csp,low,125.75
+TN,csp,mid,133.4
+TN,csp,high,257.5
+TX,csp,low,125.75
+TX,csp,mid,133.4
+TX,csp,high,257.5
+UT,csp,low,125.75
+UT,csp,mid,133.4
+UT,csp,high,257.5
+VA,csp,low,125.75
+VA,csp,mid,133.4
+VA,csp,high,257.5
+VT,csp,low,125.75
+VT,csp,mid,133.4
+VT,csp,high,257.5
+WA,csp,low,125.75
+WA,csp,mid,133.4
+WA,csp,high,257.5
+WI,csp,low,125.75
+WI,csp,mid,133.4
+WI,csp,high,257.5
+WV,csp,low,125.75
+WV,csp,mid,133.4
+WV,csp,high,257.5
+WY,csp,low,125.75
+WY,csp,mid,133.4
+WY,csp,high,257.5
+AL,geothermal,low,15.525
+AL,geothermal,mid,24.5
+AL,geothermal,high,32.0
+AR,geothermal,low,15.525
+AR,geothermal,mid,24.5
+AR,geothermal,high,32.0
+AZ,geothermal,low,15.525
+AZ,geothermal,mid,24.5
+AZ,geothermal,high,32.0
+CA,geothermal,low,24.0
+CA,geothermal,mid,29.5
+CA,geothermal,high,43.5
+CO,geothermal,low,15.525
+CO,geothermal,mid,24.5
+CO,geothermal,high,32.0
+CT,geothermal,low,15.525
+CT,geothermal,mid,24.5
+CT,geothermal,high,32.0
+DE,geothermal,low,15.525
+DE,geothermal,mid,24.5
+DE,geothermal,high,32.0
+FL,geothermal,low,15.525
+FL,geothermal,mid,24.5
+FL,geothermal,high,32.0
+GA,geothermal,low,15.525
+GA,geothermal,mid,24.5
+GA,geothermal,high,32.0
+IA,geothermal,low,15.525
+IA,geothermal,mid,24.5
+IA,geothermal,high,32.0
+ID,geothermal,low,18.0
+ID,geothermal,mid,18.0
+ID,geothermal,high,18.0
+IL,geothermal,low,15.525
+IL,geothermal,mid,24.5
+IL,geothermal,high,32.0
+IN,geothermal,low,15.525
+IN,geothermal,mid,24.5
+IN,geothermal,high,32.0
+KS,geothermal,low,15.525
+KS,geothermal,mid,24.5
+KS,geothermal,high,32.0
+KY,geothermal,low,15.525
+KY,geothermal,mid,24.5
+KY,geothermal,high,32.0
+LA,geothermal,low,15.525
+LA,geothermal,mid,24.5
+LA,geothermal,high,32.0
+MA,geothermal,low,15.525
+MA,geothermal,mid,24.5
+MA,geothermal,high,32.0
+MD,geothermal,low,15.525
+MD,geothermal,mid,24.5
+MD,geothermal,high,32.0
+ME,geothermal,low,15.525
+ME,geothermal,mid,24.5
+ME,geothermal,high,32.0
+MI,geothermal,low,15.525
+MI,geothermal,mid,24.5
+MI,geothermal,high,32.0
+MN,geothermal,low,15.525
+MN,geothermal,mid,24.5
+MN,geothermal,high,32.0
+MO,geothermal,low,15.525
+MO,geothermal,mid,24.5
+MO,geothermal,high,32.0
+MS,geothermal,low,15.525
+MS,geothermal,mid,24.5
+MS,geothermal,high,32.0
+MT,geothermal,low,15.525
+MT,geothermal,mid,24.5
+MT,geothermal,high,32.0
+NC,geothermal,low,15.525
+NC,geothermal,mid,24.5
+NC,geothermal,high,32.0
+ND,geothermal,low,15.525
+ND,geothermal,mid,24.5
+ND,geothermal,high,32.0
+NE,geothermal,low,15.525
+NE,geothermal,mid,24.5
+NE,geothermal,high,32.0
+NH,geothermal,low,15.525
+NH,geothermal,mid,24.5
+NH,geothermal,high,32.0
+NJ,geothermal,low,15.525
+NJ,geothermal,mid,24.5
+NJ,geothermal,high,32.0
+NM,geothermal,low,19.2
+NM,geothermal,mid,19.2
+NM,geothermal,high,19.2
+NV,geothermal,low,21.5
+NV,geothermal,mid,26.0
+NV,geothermal,high,32.0
+NY,geothermal,low,15.525
+NY,geothermal,mid,24.5
+NY,geothermal,high,32.0
+OH,geothermal,low,15.525
+OH,geothermal,mid,24.5
+OH,geothermal,high,32.0
+OK,geothermal,low,15.525
+OK,geothermal,mid,24.5
+OK,geothermal,high,32.0
+OR,geothermal,low,11.025
+OR,geothermal,mid,18.35
+OR,geothermal,high,25.675
+PA,geothermal,low,15.525
+PA,geothermal,mid,24.5
+PA,geothermal,high,32.0
+RI,geothermal,low,15.525
+RI,geothermal,mid,24.5
+RI,geothermal,high,32.0
+SC,geothermal,low,15.525
+SC,geothermal,mid,24.5
+SC,geothermal,high,32.0
+SD,geothermal,low,15.525
+SD,geothermal,mid,24.5
+SD,geothermal,high,32.0
+TN,geothermal,low,15.525
+TN,geothermal,mid,24.5
+TN,geothermal,high,32.0
+TX,geothermal,low,15.525
+TX,geothermal,mid,24.5
+TX,geothermal,high,32.0
+UT,geothermal,low,14.05
+UT,geothermal,mid,14.1
+UT,geothermal,high,19.55
+VA,geothermal,low,15.525
+VA,geothermal,mid,24.5
+VA,geothermal,high,32.0
+VT,geothermal,low,15.525
+VT,geothermal,mid,24.5
+VT,geothermal,high,32.0
+WA,geothermal,low,15.525
+WA,geothermal,mid,24.5
+WA,geothermal,high,32.0
+WI,geothermal,low,15.525
+WI,geothermal,mid,24.5
+WI,geothermal,high,32.0
+WV,geothermal,low,15.525
+WV,geothermal,mid,24.5
+WV,geothermal,high,32.0
+WY,geothermal,low,15.525
+WY,geothermal,mid,24.5
+WY,geothermal,high,32.0
+AL,hydro,low,18.6
+AL,hydro,mid,18.6
+AL,hydro,high,18.6
+AR,hydro,low,3.9
+AR,hydro,mid,4.3
+AR,hydro,high,4.3
+AZ,hydro,low,2.025
+AZ,hydro,mid,4.3
+AZ,hydro,high,8.975
+CA,hydro,low,3.65
+CA,hydro,mid,6.5
+CA,hydro,high,18.3
+CO,hydro,low,2.7
+CO,hydro,mid,3.75
+CO,hydro,high,5.625
+CT,hydro,low,2.025
+CT,hydro,mid,4.3
+CT,hydro,high,8.975
+DE,hydro,low,2.025
+DE,hydro,mid,4.3
+DE,hydro,high,8.975
+FL,hydro,low,43.5
+FL,hydro,mid,43.5
+FL,hydro,high,43.5
+GA,hydro,low,180.4
+GA,hydro,mid,229.6
+GA,hydro,high,278.8
+IA,hydro,low,2.025
+IA,hydro,mid,4.3
+IA,hydro,high,8.975
+ID,hydro,low,1.275
+ID,hydro,mid,2.45
+ID,hydro,high,3.375
+IL,hydro,low,2.45
+IL,hydro,mid,4.3
+IL,hydro,high,6.15
+IN,hydro,low,2.025
+IN,hydro,mid,4.3
+IN,hydro,high,8.975
+KS,hydro,low,4.6
+KS,hydro,mid,4.6
+KS,hydro,high,4.6
+KY,hydro,low,57.45000000000001
+KY,hydro,mid,81.9
+KY,hydro,high,92.17500000000001
+LA,hydro,low,2.025
+LA,hydro,mid,4.3
+LA,hydro,high,8.975
+MA,hydro,low,0.6
+MA,hydro,mid,0.6
+MA,hydro,high,0.6
+MD,hydro,low,2.025
+MD,hydro,mid,4.3
+MD,hydro,high,8.975
+ME,hydro,low,1.65
+ME,hydro,mid,2.55
+ME,hydro,high,2.925
+MI,hydro,low,0.2
+MI,hydro,mid,0.2
+MI,hydro,high,0.2
+MN,hydro,low,2.774999999999999
+MN,hydro,mid,5.049999999999999
+MN,hydro,high,7.324999999999998
+MO,hydro,low,2.025
+MO,hydro,mid,4.3
+MO,hydro,high,8.975
+MS,hydro,low,2.025
+MS,hydro,mid,4.3
+MS,hydro,high,8.975
+MT,hydro,low,3.5
+MT,hydro,mid,7.5
+MT,hydro,high,13.0
+NC,hydro,low,3.05
+NC,hydro,mid,4.4
+NC,hydro,high,57.2
+ND,hydro,low,2.025
+ND,hydro,mid,4.3
+ND,hydro,high,8.975
+NE,hydro,low,2.025
+NE,hydro,mid,4.3
+NE,hydro,high,8.975
+NH,hydro,low,2.025
+NH,hydro,mid,4.3
+NH,hydro,high,8.975
+NJ,hydro,low,2.025
+NJ,hydro,mid,4.3
+NJ,hydro,high,8.975
+NM,hydro,low,3.0
+NM,hydro,mid,3.0
+NM,hydro,high,3.0
+NV,hydro,low,2.025
+NV,hydro,mid,4.3
+NV,hydro,high,8.975
+NY,hydro,low,1.2
+NY,hydro,mid,2.5
+NY,hydro,high,6.0
+OH,hydro,low,1.9
+OH,hydro,mid,1.9
+OH,hydro,high,1.9
+OK,hydro,low,2.025
+OK,hydro,mid,4.3
+OK,hydro,high,8.975
+OR,hydro,low,1.55
+OR,hydro,mid,2.8
+OR,hydro,high,4.5
+PA,hydro,low,38.2
+PA,hydro,mid,70.4
+PA,hydro,high,102.6
+RI,hydro,low,2.025
+RI,hydro,mid,4.3
+RI,hydro,high,8.975
+SC,hydro,low,1.1
+SC,hydro,mid,1.1
+SC,hydro,high,1.1
+SD,hydro,low,2.025
+SD,hydro,mid,4.3
+SD,hydro,high,8.975
+TN,hydro,low,2.025
+TN,hydro,mid,4.3
+TN,hydro,high,8.975
+TX,hydro,low,26.7
+TX,hydro,mid,26.7
+TX,hydro,high,26.7
+UT,hydro,low,13.0
+UT,hydro,mid,13.0
+UT,hydro,high,13.0
+VA,hydro,low,2.2
+VA,hydro,mid,2.2
+VA,hydro,high,2.2
+VT,hydro,low,0.7250000000000001
+VT,hydro,mid,1.6
+VT,hydro,high,6.550000000000001
+WA,hydro,low,6.0
+WA,hydro,mid,7.15
+WA,hydro,high,14.25
+WI,hydro,low,8.45
+WI,hydro,mid,8.7
+WI,hydro,high,8.95
+WV,hydro,low,53.0
+WV,hydro,mid,62.0
+WV,hydro,high,71.0
+WY,hydro,low,1.7
+WY,hydro,mid,1.7
+WY,hydro,high,1.7
+AL,land-based wind,low,16.8
+AL,land-based wind,mid,84.0
+AL,land-based wind,high,161.0
+AR,land-based wind,low,16.8
+AR,land-based wind,mid,84.0
+AR,land-based wind,high,161.0
+AZ,land-based wind,low,16.8
+AZ,land-based wind,mid,84.0
+AZ,land-based wind,high,161.0
+CA,land-based wind,low,16.8
+CA,land-based wind,mid,84.0
+CA,land-based wind,high,161.0
+CO,land-based wind,low,16.8
+CO,land-based wind,mid,84.0
+CO,land-based wind,high,161.0
+CT,land-based wind,low,16.8
+CT,land-based wind,mid,84.0
+CT,land-based wind,high,161.0
+DE,land-based wind,low,16.8
+DE,land-based wind,mid,84.0
+DE,land-based wind,high,161.0
+FL,land-based wind,low,16.8
+FL,land-based wind,mid,84.0
+FL,land-based wind,high,161.0
+GA,land-based wind,low,16.8
+GA,land-based wind,mid,84.0
+GA,land-based wind,high,161.0
+IA,land-based wind,low,16.8
+IA,land-based wind,mid,84.0
+IA,land-based wind,high,161.0
+ID,land-based wind,low,16.8
+ID,land-based wind,mid,84.0
+ID,land-based wind,high,161.0
+IL,land-based wind,low,16.8
+IL,land-based wind,mid,84.0
+IL,land-based wind,high,161.0
+IN,land-based wind,low,16.8
+IN,land-based wind,mid,84.0
+IN,land-based wind,high,161.0
+KS,land-based wind,low,16.8
+KS,land-based wind,mid,84.0
+KS,land-based wind,high,161.0
+KY,land-based wind,low,16.8
+KY,land-based wind,mid,84.0
+KY,land-based wind,high,161.0
+LA,land-based wind,low,16.8
+LA,land-based wind,mid,84.0
+LA,land-based wind,high,161.0
+MA,land-based wind,low,16.8
+MA,land-based wind,mid,84.0
+MA,land-based wind,high,161.0
+MD,land-based wind,low,16.8
+MD,land-based wind,mid,84.0
+MD,land-based wind,high,161.0
+ME,land-based wind,low,16.8
+ME,land-based wind,mid,84.0
+ME,land-based wind,high,161.0
+MI,land-based wind,low,16.8
+MI,land-based wind,mid,84.0
+MI,land-based wind,high,161.0
+MN,land-based wind,low,16.8
+MN,land-based wind,mid,84.0
+MN,land-based wind,high,161.0
+MO,land-based wind,low,16.8
+MO,land-based wind,mid,84.0
+MO,land-based wind,high,161.0
+MS,land-based wind,low,16.8
+MS,land-based wind,mid,84.0
+MS,land-based wind,high,161.0
+MT,land-based wind,low,16.8
+MT,land-based wind,mid,84.0
+MT,land-based wind,high,161.0
+NC,land-based wind,low,16.8
+NC,land-based wind,mid,84.0
+NC,land-based wind,high,161.0
+ND,land-based wind,low,16.8
+ND,land-based wind,mid,84.0
+ND,land-based wind,high,161.0
+NE,land-based wind,low,16.8
+NE,land-based wind,mid,84.0
+NE,land-based wind,high,161.0
+NH,land-based wind,low,16.8
+NH,land-based wind,mid,84.0
+NH,land-based wind,high,161.0
+NJ,land-based wind,low,16.8
+NJ,land-based wind,mid,84.0
+NJ,land-based wind,high,161.0
+NM,land-based wind,low,16.8
+NM,land-based wind,mid,84.0
+NM,land-based wind,high,161.0
+NV,land-based wind,low,16.8
+NV,land-based wind,mid,84.0
+NV,land-based wind,high,161.0
+NY,land-based wind,low,16.8
+NY,land-based wind,mid,84.0
+NY,land-based wind,high,161.0
+OH,land-based wind,low,16.8
+OH,land-based wind,mid,84.0
+OH,land-based wind,high,161.0
+OK,land-based wind,low,16.8
+OK,land-based wind,mid,84.0
+OK,land-based wind,high,161.0
+OR,land-based wind,low,16.8
+OR,land-based wind,mid,84.0
+OR,land-based wind,high,161.0
+PA,land-based wind,low,16.8
+PA,land-based wind,mid,84.0
+PA,land-based wind,high,161.0
+RI,land-based wind,low,16.8
+RI,land-based wind,mid,84.0
+RI,land-based wind,high,161.0
+SC,land-based wind,low,16.8
+SC,land-based wind,mid,84.0
+SC,land-based wind,high,161.0
+SD,land-based wind,low,16.8
+SD,land-based wind,mid,84.0
+SD,land-based wind,high,161.0
+TN,land-based wind,low,16.8
+TN,land-based wind,mid,84.0
+TN,land-based wind,high,161.0
+TX,land-based wind,low,16.8
+TX,land-based wind,mid,84.0
+TX,land-based wind,high,161.0
+UT,land-based wind,low,16.8
+UT,land-based wind,mid,84.0
+UT,land-based wind,high,161.0
+VA,land-based wind,low,16.8
+VA,land-based wind,mid,84.0
+VA,land-based wind,high,161.0
+VT,land-based wind,low,16.8
+VT,land-based wind,mid,84.0
+VT,land-based wind,high,161.0
+WA,land-based wind,low,16.8
+WA,land-based wind,mid,84.0
+WA,land-based wind,high,161.0
+WI,land-based wind,low,16.8
+WI,land-based wind,mid,84.0
+WI,land-based wind,high,161.0
+WV,land-based wind,low,16.8
+WV,land-based wind,mid,84.0
+WV,land-based wind,high,161.0
+WY,land-based wind,low,16.8
+WY,land-based wind,mid,84.0
+WY,land-based wind,high,161.0
+AL,ng-cc,low,822.8
+AL,ng-cc,mid,902.4000000000001
+AL,ng-cc,high,939.4
+AR,ng-cc,low,417.75
+AR,ng-cc,mid,679.1
+AR,ng-cc,high,730.4
+AZ,ng-cc,low,619.0
+AZ,ng-cc,mid,691.6
+AZ,ng-cc,high,710.5
+CA,ng-cc,low,162.25
+CA,ng-cc,mid,575.0
+CA,ng-cc,high,680.025
+CO,ng-cc,low,132.55
+CO,ng-cc,mid,200.0
+CO,ng-cc,high,589.95
+CT,ng-cc,low,576.7249999999999
+CT,ng-cc,mid,635.5
+CT,ng-cc,high,803.25
+DE,ng-cc,low,205.5
+DE,ng-cc,mid,361.0
+DE,ng-cc,high,494.0
+FL,ng-cc,low,550.65
+FL,ng-cc,mid,990.3999999999999
+FL,ng-cc,high,1312.15
+GA,ng-cc,low,595.35
+GA,ng-cc,mid,1192.0
+GA,ng-cc,high,1307.8
+IA,ng-cc,low,589.55
+IA,ng-cc,mid,602.8
+IA,ng-cc,high,654.3499999999999
+ID,ng-cc,low,305.75
+ID,ng-cc,mid,310.0
+ID,ng-cc,high,314.25
+IL,ng-cc,low,611.2
+IL,ng-cc,mid,627.5
+IL,ng-cc,high,702.1
+IN,ng-cc,low,587.4499999999999
+IN,ng-cc,mid,631.7
+IN,ng-cc,high,746.0
+KS,ng-cc,low,267.6
+KS,ng-cc,mid,267.6
+KS,ng-cc,high,267.6
+KY,ng-cc,low,895.25
+KY,ng-cc,mid,983.5
+KY,ng-cc,high,1071.75
+LA,ng-cc,low,624.0
+LA,ng-cc,mid,649.5
+LA,ng-cc,high,1000.0
+MA,ng-cc,low,367.175
+MA,ng-cc,mid,578.0
+MA,ng-cc,high,816.7
+MD,ng-cc,low,802.95
+MD,ng-cc,mid,830.6
+MD,ng-cc,high,972.0999999999999
+ME,ng-cc,low,563.9
+ME,ng-cc,mid,563.9
+ME,ng-cc,high,563.9
+MI,ng-cc,low,110.85
+MI,ng-cc,mid,370.1
+MI,ng-cc,high,634.45
+MN,ng-cc,low,334.5
+MN,ng-cc,mid,421.2
+MN,ng-cc,high,644.0
+MO,ng-cc,low,320.4
+MO,ng-cc,mid,387.5
+MO,ng-cc,high,508.75
+MS,ng-cc,low,613.7249999999999
+MS,ng-cc,mid,845.25
+MS,ng-cc,high,902.6750000000001
+MT,ng-cc,low,483.0
+MT,ng-cc,mid,646.1
+MT,ng-cc,high,912.0000000000001
+NC,ng-cc,low,592.3499999999999
+NC,ng-cc,mid,697.9000000000001
+NC,ng-cc,high,814.5
+ND,ng-cc,low,483.0
+ND,ng-cc,mid,646.1
+ND,ng-cc,high,912.0000000000001
+NE,ng-cc,low,173.675
+NE,ng-cc,mid,198.15
+NE,ng-cc,high,222.625
+NH,ng-cc,low,651.625
+NH,ng-cc,mid,697.75
+NH,ng-cc,high,743.875
+NJ,ng-cc,low,609.5
+NJ,ng-cc,mid,735.0
+NJ,ng-cc,high,772.9
+NM,ng-cc,low,232.0
+NM,ng-cc,mid,468.5
+NM,ng-cc,high,656.075
+NV,ng-cc,low,579.55
+NV,ng-cc,mid,623.2
+NV,ng-cc,high,676.55
+NY,ng-cc,low,328.8
+NY,ng-cc,mid,622.5
+NY,ng-cc,high,800.7750000000001
+OH,ng-cc,low,687.45
+OH,ng-cc,mid,785.9
+OH,ng-cc,high,951.9
+OK,ng-cc,low,547.175
+OK,ng-cc,mid,752.1
+OK,ng-cc,high,1253.0
+OR,ng-cc,low,483.0
+OR,ng-cc,mid,500.0
+OR,ng-cc,high,501.5
+PA,ng-cc,low,651.6
+PA,ng-cc,mid,870.0
+PA,ng-cc,high,1153.0
+RI,ng-cc,low,596.0
+RI,ng-cc,mid,596.0
+RI,ng-cc,high,596.0
+SC,ng-cc,low,520.0
+SC,ng-cc,mid,668.5
+SC,ng-cc,high,846.7
+SD,ng-cc,low,324.0
+SD,ng-cc,mid,324.0
+SD,ng-cc,high,324.0
+TN,ng-cc,low,800.6500000000001
+TN,ng-cc,mid,996.9000000000001
+TN,ng-cc,high,1083.9
+TX,ng-cc,low,539.225
+TX,ng-cc,mid,732.0
+TX,ng-cc,high,976.8
+UT,ng-cc,low,394.5
+UT,ng-cc,mid,649.0
+UT,ng-cc,high,1017.0
+VA,ng-cc,low,712.5
+VA,ng-cc,mid,1011.4
+VA,ng-cc,high,1472.2
+VT,ng-cc,low,483.0
+VT,ng-cc,mid,646.1
+VT,ng-cc,high,912.0000000000001
+WA,ng-cc,low,318.3
+WA,ng-cc,mid,319.0
+WA,ng-cc,high,697.8
+WI,ng-cc,low,618.8
+WI,ng-cc,mid,674.9000000000001
+WI,ng-cc,high,723.2
+WV,ng-cc,low,483.0
+WV,ng-cc,mid,646.1
+WV,ng-cc,high,912.0000000000001
+WY,ng-cc,low,100.0
+WY,ng-cc,mid,100.0
+WY,ng-cc,high,100.0
+AL,ng-ct,low,219.3
+AL,ng-ct,mid,340.0
+AL,ng-ct,high,544.0
+AR,ng-ct,low,66.0
+AR,ng-ct,mid,117.9
+AR,ng-ct,high,154.8
+AZ,ng-ct,low,69.4
+AZ,ng-ct,mid,121.0
+AZ,ng-ct,high,396.5
+CA,ng-ct,low,1.25
+CA,ng-ct,mid,5.2
+CA,ng-ct,high,60.5
+CO,ng-ct,low,135.9
+CO,ng-ct,mid,228.0
+CO,ng-ct,high,339.2
+CT,ng-ct,low,1.85
+CT,ng-ct,mid,3.1
+CT,ng-ct,high,8.35
+DE,ng-ct,low,2.6
+DE,ng-ct,mid,25.0
+DE,ng-ct,high,50.0
+FL,ng-ct,low,171.25
+FL,ng-ct,mid,294.8
+FL,ng-ct,high,632.0
+GA,ng-ct,low,200.7
+GA,ng-ct,mid,495.0
+GA,ng-ct,high,726.0
+IA,ng-ct,low,5.15
+IA,ng-ct,mid,43.9
+IA,ng-ct,high,106.575
+ID,ng-ct,low,197.325
+ID,ng-ct,mid,221.85
+ID,ng-ct,high,246.375
+IL,ng-ct,low,48.0
+IL,ng-ct,mid,312.8
+IL,ng-ct,high,586.0
+IN,ng-ct,low,31.15
+IN,ng-ct,mid,87.05000000000001
+IN,ng-ct,high,176.375
+KS,ng-ct,low,6.550000000000001
+KS,ng-ct,mid,27.6
+KS,ng-ct,high,102.75
+KY,ng-ct,low,164.25
+KY,ng-ct,mid,616.0
+KY,ng-ct,high,803.5
+LA,ng-ct,low,100.8
+LA,ng-ct,mid,185.35
+LA,ng-ct,high,261.7
+MA,ng-ct,low,46.475
+MA,ng-ct,mid,118.0
+MA,ng-ct,high,180.0
+MD,ng-ct,low,21.05
+MD,ng-ct,mid,84.2
+MD,ng-ct,high,298.9
+ME,ng-ct,low,186.8
+ME,ng-ct,mid,186.8
+ME,ng-ct,high,186.8
+MI,ng-ct,low,12.9
+MI,ng-ct,mid,60.5
+MI,ng-ct,high,357.6
+MN,ng-ct,low,31.0
+MN,ng-ct,mid,49.45
+MN,ng-ct,high,226.325
+MO,ng-ct,low,13.375
+MO,ng-ct,mid,119.4
+MO,ng-ct,high,260.325
+MS,ng-ct,low,66.3
+MS,ng-ct,mid,141.0
+MS,ng-ct,high,278.45
+MT,ng-ct,low,43.0
+MT,ng-ct,mid,54.90000000000001
+MT,ng-ct,high,91.0
+NC,ng-ct,low,179.425
+NC,ng-ct,mid,343.8
+NC,ng-ct,high,632.6500000000001
+ND,ng-ct,low,101.65
+ND,ng-ct,mid,199.6500000000001
+ND,ng-ct,high,295.4500000000001
+NE,ng-ct,low,45.125
+NE,ng-ct,mid,77.95
+NE,ng-ct,high,118.95
+NH,ng-ct,low,8.0
+NH,ng-ct,mid,61.5
+NH,ng-ct,high,213.6
+NJ,ng-ct,low,2.8
+NJ,ng-ct,mid,7.5
+NJ,ng-ct,high,102.4
+NM,ng-ct,low,33.525
+NM,ng-ct,mid,67.25
+NM,ng-ct,high,138.725
+NV,ng-ct,low,244.85
+NV,ng-ct,mid,404.7
+NV,ng-ct,high,564.55
+NY,ng-ct,low,1.95
+NY,ng-ct,mid,47.0
+NY,ng-ct,high,94.0
+OH,ng-ct,low,52.75
+OH,ng-ct,mid,390.5
+OH,ng-ct,high,571.5
+OK,ng-ct,low,97.75
+OK,ng-ct,mid,128.5
+OK,ng-ct,high,173.0
+OR,ng-ct,low,21.1
+OR,ng-ct,mid,71.05
+OR,ng-ct,high,144.6
+PA,ng-ct,low,17.75
+PA,ng-ct,mid,22.0
+PA,ng-ct,high,67.275
+RI,ng-ct,low,8.0
+RI,ng-ct,mid,61.5
+RI,ng-ct,high,213.6
+SC,ng-ct,low,3.5
+SC,ng-ct,mid,55.3
+SC,ng-ct,high,394.0
+SD,ng-ct,low,71.65
+SD,ng-ct,mid,124.25
+SD,ng-ct,high,171.85
+TN,ng-ct,low,257.6
+TN,ng-ct,mid,512.0
+TN,ng-ct,high,766.4
+TX,ng-ct,low,100.0
+TX,ng-ct,mid,171.5
+TX,ng-ct,high,248.9
+UT,ng-ct,low,11.5
+UT,ng-ct,mid,16.2
+UT,ng-ct,high,51.5
+VA,ng-ct,low,341.025
+VA,ng-ct,mid,511.2
+VA,ng-ct,high,549.075
+VT,ng-ct,low,8.0
+VT,ng-ct,mid,61.5
+VT,ng-ct,high,213.6
+WA,ng-ct,low,15.9
+WA,ng-ct,mid,24.6
+WA,ng-ct,high,71.19999999999999
+WI,ng-ct,low,60.45
+WI,ng-ct,mid,71.0
+WI,ng-ct,high,218.9
+WV,ng-ct,low,348.7
+WV,ng-ct,mid,353.4
+WV,ng-ct,high,436.2
+WY,ng-ct,low,22.5
+WY,ng-ct,mid,22.5
+WY,ng-ct,high,40.0
+AL,offshore wind,low,30.0
+AL,offshore wind,mid,30.0
+AL,offshore wind,high,30.0
+AR,offshore wind,low,30.0
+AR,offshore wind,mid,30.0
+AR,offshore wind,high,30.0
+AZ,offshore wind,low,30.0
+AZ,offshore wind,mid,30.0
+AZ,offshore wind,high,30.0
+CA,offshore wind,low,30.0
+CA,offshore wind,mid,30.0
+CA,offshore wind,high,30.0
+CO,offshore wind,low,30.0
+CO,offshore wind,mid,30.0
+CO,offshore wind,high,30.0
+CT,offshore wind,low,30.0
+CT,offshore wind,mid,30.0
+CT,offshore wind,high,30.0
+DE,offshore wind,low,30.0
+DE,offshore wind,mid,30.0
+DE,offshore wind,high,30.0
+FL,offshore wind,low,30.0
+FL,offshore wind,mid,30.0
+FL,offshore wind,high,30.0
+GA,offshore wind,low,30.0
+GA,offshore wind,mid,30.0
+GA,offshore wind,high,30.0
+IA,offshore wind,low,30.0
+IA,offshore wind,mid,30.0
+IA,offshore wind,high,30.0
+ID,offshore wind,low,30.0
+ID,offshore wind,mid,30.0
+ID,offshore wind,high,30.0
+IL,offshore wind,low,30.0
+IL,offshore wind,mid,30.0
+IL,offshore wind,high,30.0
+IN,offshore wind,low,30.0
+IN,offshore wind,mid,30.0
+IN,offshore wind,high,30.0
+KS,offshore wind,low,30.0
+KS,offshore wind,mid,30.0
+KS,offshore wind,high,30.0
+KY,offshore wind,low,30.0
+KY,offshore wind,mid,30.0
+KY,offshore wind,high,30.0
+LA,offshore wind,low,30.0
+LA,offshore wind,mid,30.0
+LA,offshore wind,high,30.0
+MA,offshore wind,low,30.0
+MA,offshore wind,mid,30.0
+MA,offshore wind,high,30.0
+MD,offshore wind,low,30.0
+MD,offshore wind,mid,30.0
+MD,offshore wind,high,30.0
+ME,offshore wind,low,30.0
+ME,offshore wind,mid,30.0
+ME,offshore wind,high,30.0
+MI,offshore wind,low,30.0
+MI,offshore wind,mid,30.0
+MI,offshore wind,high,30.0
+MN,offshore wind,low,30.0
+MN,offshore wind,mid,30.0
+MN,offshore wind,high,30.0
+MO,offshore wind,low,30.0
+MO,offshore wind,mid,30.0
+MO,offshore wind,high,30.0
+MS,offshore wind,low,30.0
+MS,offshore wind,mid,30.0
+MS,offshore wind,high,30.0
+MT,offshore wind,low,30.0
+MT,offshore wind,mid,30.0
+MT,offshore wind,high,30.0
+NC,offshore wind,low,30.0
+NC,offshore wind,mid,30.0
+NC,offshore wind,high,30.0
+ND,offshore wind,low,30.0
+ND,offshore wind,mid,30.0
+ND,offshore wind,high,30.0
+NE,offshore wind,low,30.0
+NE,offshore wind,mid,30.0
+NE,offshore wind,high,30.0
+NH,offshore wind,low,30.0
+NH,offshore wind,mid,30.0
+NH,offshore wind,high,30.0
+NJ,offshore wind,low,30.0
+NJ,offshore wind,mid,30.0
+NJ,offshore wind,high,30.0
+NM,offshore wind,low,30.0
+NM,offshore wind,mid,30.0
+NM,offshore wind,high,30.0
+NV,offshore wind,low,30.0
+NV,offshore wind,mid,30.0
+NV,offshore wind,high,30.0
+NY,offshore wind,low,30.0
+NY,offshore wind,mid,30.0
+NY,offshore wind,high,30.0
+OH,offshore wind,low,30.0
+OH,offshore wind,mid,30.0
+OH,offshore wind,high,30.0
+OK,offshore wind,low,30.0
+OK,offshore wind,mid,30.0
+OK,offshore wind,high,30.0
+OR,offshore wind,low,30.0
+OR,offshore wind,mid,30.0
+OR,offshore wind,high,30.0
+PA,offshore wind,low,30.0
+PA,offshore wind,mid,30.0
+PA,offshore wind,high,30.0
+RI,offshore wind,low,30.0
+RI,offshore wind,mid,30.0
+RI,offshore wind,high,30.0
+SC,offshore wind,low,30.0
+SC,offshore wind,mid,30.0
+SC,offshore wind,high,30.0
+SD,offshore wind,low,30.0
+SD,offshore wind,mid,30.0
+SD,offshore wind,high,30.0
+TN,offshore wind,low,30.0
+TN,offshore wind,mid,30.0
+TN,offshore wind,high,30.0
+TX,offshore wind,low,30.0
+TX,offshore wind,mid,30.0
+TX,offshore wind,high,30.0
+UT,offshore wind,low,30.0
+UT,offshore wind,mid,30.0
+UT,offshore wind,high,30.0
+VA,offshore wind,low,30.0
+VA,offshore wind,mid,30.0
+VA,offshore wind,high,30.0
+VT,offshore wind,low,30.0
+VT,offshore wind,mid,30.0
+VT,offshore wind,high,30.0
+WA,offshore wind,low,30.0
+WA,offshore wind,mid,30.0
+WA,offshore wind,high,30.0
+WI,offshore wind,low,30.0
+WI,offshore wind,mid,30.0
+WI,offshore wind,high,30.0
+WV,offshore wind,low,30.0
+WV,offshore wind,mid,30.0
+WV,offshore wind,high,30.0
+WY,offshore wind,low,30.0
+WY,offshore wind,mid,30.0
+WY,offshore wind,high,30.0
+AL,rooftop pv,low,1700.0
+AL,rooftop pv,mid,3000.0
+AL,rooftop pv,high,5200.0
+AR,rooftop pv,low,1700.0
+AR,rooftop pv,mid,3000.0
+AR,rooftop pv,high,5200.0
+AZ,rooftop pv,low,1700.0
+AZ,rooftop pv,mid,3000.0
+AZ,rooftop pv,high,5200.0
+CA,rooftop pv,low,1700.0
+CA,rooftop pv,mid,3000.0
+CA,rooftop pv,high,5200.0
+CO,rooftop pv,low,1700.0
+CO,rooftop pv,mid,3000.0
+CO,rooftop pv,high,5200.0
+CT,rooftop pv,low,1700.0
+CT,rooftop pv,mid,3000.0
+CT,rooftop pv,high,5200.0
+DE,rooftop pv,low,1700.0
+DE,rooftop pv,mid,3000.0
+DE,rooftop pv,high,5200.0
+FL,rooftop pv,low,1700.0
+FL,rooftop pv,mid,3000.0
+FL,rooftop pv,high,5200.0
+GA,rooftop pv,low,1700.0
+GA,rooftop pv,mid,3000.0
+GA,rooftop pv,high,5200.0
+IA,rooftop pv,low,1700.0
+IA,rooftop pv,mid,3000.0
+IA,rooftop pv,high,5200.0
+ID,rooftop pv,low,1700.0
+ID,rooftop pv,mid,3000.0
+ID,rooftop pv,high,5200.0
+IL,rooftop pv,low,1700.0
+IL,rooftop pv,mid,3000.0
+IL,rooftop pv,high,5200.0
+IN,rooftop pv,low,1700.0
+IN,rooftop pv,mid,3000.0
+IN,rooftop pv,high,5200.0
+KS,rooftop pv,low,1700.0
+KS,rooftop pv,mid,3000.0
+KS,rooftop pv,high,5200.0
+KY,rooftop pv,low,1700.0
+KY,rooftop pv,mid,3000.0
+KY,rooftop pv,high,5200.0
+LA,rooftop pv,low,1700.0
+LA,rooftop pv,mid,3000.0
+LA,rooftop pv,high,5200.0
+MA,rooftop pv,low,1700.0
+MA,rooftop pv,mid,3000.0
+MA,rooftop pv,high,5200.0
+MD,rooftop pv,low,1700.0
+MD,rooftop pv,mid,3000.0
+MD,rooftop pv,high,5200.0
+ME,rooftop pv,low,1700.0
+ME,rooftop pv,mid,3000.0
+ME,rooftop pv,high,5200.0
+MI,rooftop pv,low,1700.0
+MI,rooftop pv,mid,3000.0
+MI,rooftop pv,high,5200.0
+MN,rooftop pv,low,1700.0
+MN,rooftop pv,mid,3000.0
+MN,rooftop pv,high,5200.0
+MO,rooftop pv,low,1700.0
+MO,rooftop pv,mid,3000.0
+MO,rooftop pv,high,5200.0
+MS,rooftop pv,low,1700.0
+MS,rooftop pv,mid,3000.0
+MS,rooftop pv,high,5200.0
+MT,rooftop pv,low,1700.0
+MT,rooftop pv,mid,3000.0
+MT,rooftop pv,high,5200.0
+NC,rooftop pv,low,1700.0
+NC,rooftop pv,mid,3000.0
+NC,rooftop pv,high,5200.0
+ND,rooftop pv,low,1700.0
+ND,rooftop pv,mid,3000.0
+ND,rooftop pv,high,5200.0
+NE,rooftop pv,low,1700.0
+NE,rooftop pv,mid,3000.0
+NE,rooftop pv,high,5200.0
+NH,rooftop pv,low,1700.0
+NH,rooftop pv,mid,3000.0
+NH,rooftop pv,high,5200.0
+NJ,rooftop pv,low,1700.0
+NJ,rooftop pv,mid,3000.0
+NJ,rooftop pv,high,5200.0
+NM,rooftop pv,low,1700.0
+NM,rooftop pv,mid,3000.0
+NM,rooftop pv,high,5200.0
+NV,rooftop pv,low,1700.0
+NV,rooftop pv,mid,3000.0
+NV,rooftop pv,high,5200.0
+NY,rooftop pv,low,1700.0
+NY,rooftop pv,mid,3000.0
+NY,rooftop pv,high,5200.0
+OH,rooftop pv,low,1700.0
+OH,rooftop pv,mid,3000.0
+OH,rooftop pv,high,5200.0
+OK,rooftop pv,low,1700.0
+OK,rooftop pv,mid,3000.0
+OK,rooftop pv,high,5200.0
+OR,rooftop pv,low,1700.0
+OR,rooftop pv,mid,3000.0
+OR,rooftop pv,high,5200.0
+PA,rooftop pv,low,1700.0
+PA,rooftop pv,mid,3000.0
+PA,rooftop pv,high,5200.0
+RI,rooftop pv,low,1700.0
+RI,rooftop pv,mid,3000.0
+RI,rooftop pv,high,5200.0
+SC,rooftop pv,low,1700.0
+SC,rooftop pv,mid,3000.0
+SC,rooftop pv,high,5200.0
+SD,rooftop pv,low,1700.0
+SD,rooftop pv,mid,3000.0
+SD,rooftop pv,high,5200.0
+TN,rooftop pv,low,1700.0
+TN,rooftop pv,mid,3000.0
+TN,rooftop pv,high,5200.0
+TX,rooftop pv,low,1700.0
+TX,rooftop pv,mid,3000.0
+TX,rooftop pv,high,5200.0
+UT,rooftop pv,low,1700.0
+UT,rooftop pv,mid,3000.0
+UT,rooftop pv,high,5200.0
+VA,rooftop pv,low,1700.0
+VA,rooftop pv,mid,3000.0
+VA,rooftop pv,high,5200.0
+VT,rooftop pv,low,1700.0
+VT,rooftop pv,mid,3000.0
+VT,rooftop pv,high,5200.0
+WA,rooftop pv,low,1700.0
+WA,rooftop pv,mid,3000.0
+WA,rooftop pv,high,5200.0
+WI,rooftop pv,low,1700.0
+WI,rooftop pv,mid,3000.0
+WI,rooftop pv,high,5200.0
+WV,rooftop pv,low,1700.0
+WV,rooftop pv,mid,3000.0
+WV,rooftop pv,high,5200.0
+WY,rooftop pv,low,1700.0
+WY,rooftop pv,mid,3000.0
+WY,rooftop pv,high,5200.0
+AL,utility pv,low,1700.0
+AL,utility pv,mid,3000.0
+AL,utility pv,high,5200.0
+AR,utility pv,low,1700.0
+AR,utility pv,mid,3000.0
+AR,utility pv,high,5200.0
+AZ,utility pv,low,1700.0
+AZ,utility pv,mid,3000.0
+AZ,utility pv,high,5200.0
+CA,utility pv,low,1700.0
+CA,utility pv,mid,3000.0
+CA,utility pv,high,5200.0
+CO,utility pv,low,1700.0
+CO,utility pv,mid,3000.0
+CO,utility pv,high,5200.0
+CT,utility pv,low,1700.0
+CT,utility pv,mid,3000.0
+CT,utility pv,high,5200.0
+DE,utility pv,low,1700.0
+DE,utility pv,mid,3000.0
+DE,utility pv,high,5200.0
+FL,utility pv,low,1700.0
+FL,utility pv,mid,3000.0
+FL,utility pv,high,5200.0
+GA,utility pv,low,1700.0
+GA,utility pv,mid,3000.0
+GA,utility pv,high,5200.0
+IA,utility pv,low,1700.0
+IA,utility pv,mid,3000.0
+IA,utility pv,high,5200.0
+ID,utility pv,low,1700.0
+ID,utility pv,mid,3000.0
+ID,utility pv,high,5200.0
+IL,utility pv,low,1700.0
+IL,utility pv,mid,3000.0
+IL,utility pv,high,5200.0
+IN,utility pv,low,1700.0
+IN,utility pv,mid,3000.0
+IN,utility pv,high,5200.0
+KS,utility pv,low,1700.0
+KS,utility pv,mid,3000.0
+KS,utility pv,high,5200.0
+KY,utility pv,low,1700.0
+KY,utility pv,mid,3000.0
+KY,utility pv,high,5200.0
+LA,utility pv,low,1700.0
+LA,utility pv,mid,3000.0
+LA,utility pv,high,5200.0
+MA,utility pv,low,1700.0
+MA,utility pv,mid,3000.0
+MA,utility pv,high,5200.0
+MD,utility pv,low,1700.0
+MD,utility pv,mid,3000.0
+MD,utility pv,high,5200.0
+ME,utility pv,low,1700.0
+ME,utility pv,mid,3000.0
+ME,utility pv,high,5200.0
+MI,utility pv,low,1700.0
+MI,utility pv,mid,3000.0
+MI,utility pv,high,5200.0
+MN,utility pv,low,1700.0
+MN,utility pv,mid,3000.0
+MN,utility pv,high,5200.0
+MO,utility pv,low,1700.0
+MO,utility pv,mid,3000.0
+MO,utility pv,high,5200.0
+MS,utility pv,low,1700.0
+MS,utility pv,mid,3000.0
+MS,utility pv,high,5200.0
+MT,utility pv,low,1700.0
+MT,utility pv,mid,3000.0
+MT,utility pv,high,5200.0
+NC,utility pv,low,1700.0
+NC,utility pv,mid,3000.0
+NC,utility pv,high,5200.0
+ND,utility pv,low,1700.0
+ND,utility pv,mid,3000.0
+ND,utility pv,high,5200.0
+NE,utility pv,low,1700.0
+NE,utility pv,mid,3000.0
+NE,utility pv,high,5200.0
+NH,utility pv,low,1700.0
+NH,utility pv,mid,3000.0
+NH,utility pv,high,5200.0
+NJ,utility pv,low,1700.0
+NJ,utility pv,mid,3000.0
+NJ,utility pv,high,5200.0
+NM,utility pv,low,1700.0
+NM,utility pv,mid,3000.0
+NM,utility pv,high,5200.0
+NV,utility pv,low,1700.0
+NV,utility pv,mid,3000.0
+NV,utility pv,high,5200.0
+NY,utility pv,low,1700.0
+NY,utility pv,mid,3000.0
+NY,utility pv,high,5200.0
+OH,utility pv,low,1700.0
+OH,utility pv,mid,3000.0
+OH,utility pv,high,5200.0
+OK,utility pv,low,1700.0
+OK,utility pv,mid,3000.0
+OK,utility pv,high,5200.0
+OR,utility pv,low,1700.0
+OR,utility pv,mid,3000.0
+OR,utility pv,high,5200.0
+PA,utility pv,low,1700.0
+PA,utility pv,mid,3000.0
+PA,utility pv,high,5200.0
+RI,utility pv,low,1700.0
+RI,utility pv,mid,3000.0
+RI,utility pv,high,5200.0
+SC,utility pv,low,1700.0
+SC,utility pv,mid,3000.0
+SC,utility pv,high,5200.0
+SD,utility pv,low,1700.0
+SD,utility pv,mid,3000.0
+SD,utility pv,high,5200.0
+TN,utility pv,low,1700.0
+TN,utility pv,mid,3000.0
+TN,utility pv,high,5200.0
+TX,utility pv,low,1700.0
+TX,utility pv,mid,3000.0
+TX,utility pv,high,5200.0
+UT,utility pv,low,1700.0
+UT,utility pv,mid,3000.0
+UT,utility pv,high,5200.0
+VA,utility pv,low,1700.0
+VA,utility pv,mid,3000.0
+VA,utility pv,high,5200.0
+VT,utility pv,low,1700.0
+VT,utility pv,mid,3000.0
+VT,utility pv,high,5200.0
+WA,utility pv,low,1700.0
+WA,utility pv,mid,3000.0
+WA,utility pv,high,5200.0
+WI,utility pv,low,1700.0
+WI,utility pv,mid,3000.0
+WI,utility pv,high,5200.0
+WV,utility pv,low,1700.0
+WV,utility pv,mid,3000.0
+WV,utility pv,high,5200.0
+WY,utility pv,low,1700.0
+WY,utility pv,mid,3000.0
+WY,utility pv,high,5200.0
+AL,pumped storage,low,2.025
+AL,pumped storage,mid,4.3
+AL,pumped storage,high,8.975
+AR,pumped storage,low,2.025
+AR,pumped storage,mid,4.3
+AR,pumped storage,high,8.975
+AZ,pumped storage,low,2.025
+AZ,pumped storage,mid,4.3
+AZ,pumped storage,high,8.975
+CA,pumped storage,low,2.025
+CA,pumped storage,mid,4.3
+CA,pumped storage,high,8.975
+CO,pumped storage,low,2.025
+CO,pumped storage,mid,4.3
+CO,pumped storage,high,8.975
+CT,pumped storage,low,2.025
+CT,pumped storage,mid,4.3
+CT,pumped storage,high,8.975
+DE,pumped storage,low,2.025
+DE,pumped storage,mid,4.3
+DE,pumped storage,high,8.975
+FL,pumped storage,low,2.025
+FL,pumped storage,mid,4.3
+FL,pumped storage,high,8.975
+GA,pumped storage,low,2.025
+GA,pumped storage,mid,4.3
+GA,pumped storage,high,8.975
+IA,pumped storage,low,2.025
+IA,pumped storage,mid,4.3
+IA,pumped storage,high,8.975
+ID,pumped storage,low,2.025
+ID,pumped storage,mid,4.3
+ID,pumped storage,high,8.975
+IL,pumped storage,low,2.025
+IL,pumped storage,mid,4.3
+IL,pumped storage,high,8.975
+IN,pumped storage,low,2.025
+IN,pumped storage,mid,4.3
+IN,pumped storage,high,8.975
+KS,pumped storage,low,2.025
+KS,pumped storage,mid,4.3
+KS,pumped storage,high,8.975
+KY,pumped storage,low,2.025
+KY,pumped storage,mid,4.3
+KY,pumped storage,high,8.975
+LA,pumped storage,low,2.025
+LA,pumped storage,mid,4.3
+LA,pumped storage,high,8.975
+MA,pumped storage,low,2.025
+MA,pumped storage,mid,4.3
+MA,pumped storage,high,8.975
+MD,pumped storage,low,2.025
+MD,pumped storage,mid,4.3
+MD,pumped storage,high,8.975
+ME,pumped storage,low,2.025
+ME,pumped storage,mid,4.3
+ME,pumped storage,high,8.975
+MI,pumped storage,low,2.025
+MI,pumped storage,mid,4.3
+MI,pumped storage,high,8.975
+MN,pumped storage,low,2.025
+MN,pumped storage,mid,4.3
+MN,pumped storage,high,8.975
+MO,pumped storage,low,2.025
+MO,pumped storage,mid,4.3
+MO,pumped storage,high,8.975
+MS,pumped storage,low,2.025
+MS,pumped storage,mid,4.3
+MS,pumped storage,high,8.975
+MT,pumped storage,low,2.025
+MT,pumped storage,mid,4.3
+MT,pumped storage,high,8.975
+NC,pumped storage,low,2.025
+NC,pumped storage,mid,4.3
+NC,pumped storage,high,8.975
+ND,pumped storage,low,2.025
+ND,pumped storage,mid,4.3
+ND,pumped storage,high,8.975
+NE,pumped storage,low,2.025
+NE,pumped storage,mid,4.3
+NE,pumped storage,high,8.975
+NH,pumped storage,low,2.025
+NH,pumped storage,mid,4.3
+NH,pumped storage,high,8.975
+NJ,pumped storage,low,2.025
+NJ,pumped storage,mid,4.3
+NJ,pumped storage,high,8.975
+NM,pumped storage,low,2.025
+NM,pumped storage,mid,4.3
+NM,pumped storage,high,8.975
+NV,pumped storage,low,2.025
+NV,pumped storage,mid,4.3
+NV,pumped storage,high,8.975
+NY,pumped storage,low,2.025
+NY,pumped storage,mid,4.3
+NY,pumped storage,high,8.975
+OH,pumped storage,low,2.025
+OH,pumped storage,mid,4.3
+OH,pumped storage,high,8.975
+OK,pumped storage,low,2.025
+OK,pumped storage,mid,4.3
+OK,pumped storage,high,8.975
+OR,pumped storage,low,2.025
+OR,pumped storage,mid,4.3
+OR,pumped storage,high,8.975
+PA,pumped storage,low,2.025
+PA,pumped storage,mid,4.3
+PA,pumped storage,high,8.975
+RI,pumped storage,low,2.025
+RI,pumped storage,mid,4.3
+RI,pumped storage,high,8.975
+SC,pumped storage,low,2.025
+SC,pumped storage,mid,4.3
+SC,pumped storage,high,8.975
+SD,pumped storage,low,2.025
+SD,pumped storage,mid,4.3
+SD,pumped storage,high,8.975
+TN,pumped storage,low,2.025
+TN,pumped storage,mid,4.3
+TN,pumped storage,high,8.975
+TX,pumped storage,low,2.025
+TX,pumped storage,mid,4.3
+TX,pumped storage,high,8.975
+UT,pumped storage,low,2.025
+UT,pumped storage,mid,4.3
+UT,pumped storage,high,8.975
+VA,pumped storage,low,2.025
+VA,pumped storage,mid,4.3
+VA,pumped storage,high,8.975
+VT,pumped storage,low,2.025
+VT,pumped storage,mid,4.3
+VT,pumped storage,high,8.975
+WA,pumped storage,low,2.025
+WA,pumped storage,mid,4.3
+WA,pumped storage,high,8.975
+WI,pumped storage,low,2.025
+WI,pumped storage,mid,4.3
+WI,pumped storage,high,8.975
+WV,pumped storage,low,2.025
+WV,pumped storage,mid,4.3
+WV,pumped storage,high,8.975
+WY,pumped storage,low,2.025
+WY,pumped storage,mid,4.3
+WY,pumped storage,high,8.975

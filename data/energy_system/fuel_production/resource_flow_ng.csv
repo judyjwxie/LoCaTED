@@ -1,0 +1,364 @@
+START,END,VAL,TON
+Alabama,Alabama,1005,3959
+Alabama,Indiana,136,591
+Alabama,Kansas,2,5
+Alabama,Kentucky,5,3
+Alabama,Louisiana,6,29
+Alabama,Maine,2,1
+Alabama,Minnesota,7,31
+Alabama,Missouri,9,23
+Alabama,Montana,6,4
+Alabama,New York,3,3
+Alabama,Tennessee,60,141
+Alabama,Texas,33,100
+Alabama,Wyoming,8,5
+Arizona,Arizona,1092,3246
+Arizona,California,81,148
+Arizona,Colorado,0,1
+Arizona,Oregon,0,3
+Arizona,Utah,7,15
+Arkansas,Arkansas,1285,2437
+Arkansas,Michigan,6,11
+Arkansas,Mississippi,17,25
+Arkansas,Ohio,3,5
+Arkansas,Oklahoma,9,23
+Arkansas,South Carolina,4,8
+Arkansas,Tennessee,13,16
+Arkansas,Texas,32,61
+California,Arizona,977,383
+California,California,14600,32733
+California,Illinois,0,10
+California,Nevada,0,263
+California,New Mexico,9,9
+California,Texas,97,152
+California,Washington,128,66
+California,Wyoming,0,1
+Colorado,Arizona,51,103
+Colorado,California,938,1451
+Colorado,Kansas,57,87
+Colorado,Missouri,71,154
+Colorado,New Jersey,81,72
+Colorado,New Mexico,127,295
+Colorado,Ohio,19,52
+Colorado,Texas,342,742
+Connecticut,Connecticut,862,3009
+Connecticut,Massachusetts,37,29
+Connecticut,New York,137,72
+Delaware,Delaware,95,299
+Delaware,Maryland,38,55
+Delaware,North Carolina,7,5
+Delaware,Pennsylvania,51,90
+Florida,Alabama,5,4
+Florida,California,0,94
+Florida,Colorado,22,18
+Florida,Connecticut,30,25
+Florida,Florida,2734,6378
+Florida,Georgia,167,101
+Florida,Maine,18,12
+Florida,North Carolina,97,68
+Florida,Ohio,84,61
+Florida,Pennsylvania,104,66
+Florida,South Carolina,0,8
+Florida,Tennessee,0,5
+Florida,Texas,98,75
+Florida,Utah,0,13
+Florida,Virginia,108,83
+Georgia,Georgia,1273,8920
+Georgia,Mississippi,0,5
+Georgia,New Jersey,9,11
+Georgia,Pennsylvania,0,5
+Georgia,South Carolina,30,26
+Georgia,Tennessee,0,22
+Georgia,Virginia,0,3
+Georgia,West Virginia,1,1
+Hawaii,Hawaii,375,578
+Idaho,Utah,1,2
+Illinois,Arizona,0,3
+Illinois,Arkansas,19,16
+Illinois,Colorado,17,13
+Illinois,Florida,0,56
+Illinois,Illinois,15942,21016
+Illinois,Indiana,152,221
+Illinois,Louisiana,147,2031
+Illinois,Minnesota,18,15
+Illinois,Nebraska,7,6
+Illinois,Pennsylvania,111,234
+Illinois,South Dakota,14,15
+Illinois,Texas,287,1052
+Indiana,Arkansas,5,11
+Indiana,Colorado,0,4
+Indiana,Georgia,47,21
+Indiana,Indiana,2751,7620
+Indiana,Kentucky,142,384
+Indiana,Massachusetts,0,1
+Indiana,Minnesota,51,27
+Indiana,Missouri,14,6
+Indiana,Ohio,147,182
+Indiana,Pennsylvania,70,81
+Indiana,West Virginia,10,7
+Indiana,Wisconsin,70,38
+Iowa,Illinois,47,33
+Iowa,Kansas,27,22
+Iowa,Texas,68,101
+Kansas,Alabama,8,2
+Kansas,Arizona,19,8
+Kansas,California,52,27
+Kansas,Colorado,16,4
+Kansas,Florida,17,3
+Kansas,Georgia,34,7
+Kansas,Illinois,60,20
+Kansas,Kansas,1319,5796
+Kansas,Louisiana,9,1
+Kansas,Maryland,16,3
+Kansas,Massachusetts,11,2
+Kansas,Michigan,54,18
+Kansas,Minnesota,4,1
+Kansas,Mississippi,2,1
+Kansas,Missouri,111,690
+Kansas,New Hampshire,0,1
+Kansas,New Jersey,33,6
+Kansas,North Carolina,9,2
+Kansas,Ohio,6,2
+Kansas,Pennsylvania,8,2
+Kansas,Texas,171,2795
+Kansas,Utah,4,1
+Kansas,Virginia,6,2
+Kansas,Washington,10,2
+Kansas,West Virginia,1,3
+Kansas,Wyoming,8,14
+Kansas,"Albany-Schenectady, NY CFS Area; New York",7,1
+Kentucky,Arkansas,44,53
+Kentucky,Connecticut,15,18
+Kentucky,Illinois,105,188
+Kentucky,Indiana,167,280
+Kentucky,Iowa,60,69
+Kentucky,Kentucky,3000,3843
+Kentucky,Louisiana,548,2557
+Kentucky,Michigan,229,148
+Kentucky,Minnesota,35,40
+Kentucky,Missouri,44,67
+Kentucky,New Jersey,0,21
+Kentucky,New York,39,57
+Kentucky,North Carolina,382,759
+Kentucky,Pennsylvania,86,107
+Kentucky,Texas,22,25
+Kentucky,Vermont,15,18
+Kentucky,Virginia,68,229
+Kentucky,West Virginia,286,559
+Kentucky,Wisconsin,16,19
+Louisiana,Arizona,29,12
+Louisiana,Arkansas,32,14
+Louisiana,Louisiana,7702,22246
+Louisiana,Michigan,53,26
+Louisiana,Mississippi,202,653
+Louisiana,Missouri,0,8
+Louisiana,South Carolina,138,120
+Louisiana,Texas,5354,14096
+Maine,Maine,774,1992
+Maryland,District of Columbia,4,1
+Maryland,Maryland,667,3014
+Maryland,North Carolina,5,24
+Maryland,Pennsylvania,20,35
+Massachusetts,Massachusetts,1812,10024
+Massachusetts,Vermont,4,7
+Michigan,Alabama,45,47
+Michigan,California,86,17
+Michigan,Florida,0,1
+Michigan,Illinois,43,51
+Michigan,Maryland,0,2
+Michigan,Michigan,3726,5211
+Michigan,New York,47,85
+Michigan,North Carolina,35,61
+Michigan,Ohio,0,621
+Michigan,Texas,103,67
+Michigan,Wisconsin,11,10
+Minnesota,Louisiana,5,1
+Minnesota,Minnesota,2764,9063
+Minnesota,South Dakota,31,23
+Minnesota,Tennessee,107,42
+Minnesota,Washington,12,3
+Minnesota,Wisconsin,418,1664
+Minnesota,Wyoming,9,8
+Mississippi,Georgia,83,263
+Mississippi,Louisiana,430,848
+Mississippi,South Carolina,11,15
+Mississippi,Tennessee,0,205
+Missouri,Illinois,112,92
+Missouri,Indiana,2,1
+Missouri,Iowa,5,3
+Missouri,Kansas,141,339
+Missouri,Michigan,2,1
+Missouri,Missouri,1775,5113
+Missouri,Tennessee,14,5
+Missouri,Texas,10,3
+Montana,Arizona,4,56
+Montana,California,0,103
+Montana,Idaho,9,35
+Montana,Montana,0,1306
+Montana,New York,46,200
+Montana,Oregon,22,101
+Montana,Texas,74,377
+Montana,Utah,3,16
+Montana,Wisconsin,15,531
+Montana,Wyoming,10,27
+Nebraska,Minnesota,2,5
+Nebraska,Nebraska,0,1029
+Nevada,California,0,37
+Nevada,Nevada,482,1510
+Nevada,Utah,25,53
+New Hampshire,Maryland,1,4
+New Hampshire,New Hampshire,553,2356
+New Hampshire,Pennsylvania,5,12
+New Jersey,Indiana,14,3
+New Jersey,Maryland,226,377
+New Jersey,Michigan,40,13
+New Jersey,New Jersey,2748,11060
+New Jersey,New York,370,439
+New Jersey,South Carolina,0,19
+New Jersey,Virginia,161,64
+New Jersey,West Virginia,0,76
+New Mexico,Arizona,4,6
+New York,New Hampshire,11,19
+New York,New Jersey,6,32
+New York,New York,4463,9949
+New York,Ohio,4,1
+New York,Pennsylvania,0,46
+New York,Vermont,64,108
+New York,West Virginia,0,4
+New York,"Albany-Schenectady, NY CFS Area; New York",0,1461
+North Carolina,Alabama,34,26
+North Carolina,Florida,9,24
+North Carolina,Kentucky,24,23
+North Carolina,North Carolina,2448,5214
+North Carolina,South Carolina,240,429
+North Carolina,Texas,75,60
+North Carolina,Virginia,56,34
+North Dakota,North Dakota,247,643
+Ohio,Alabama,27,11
+Ohio,Florida,6,1
+Ohio,Illinois,64,85
+Ohio,Mississippi,5,3
+Ohio,New Jersey,59,98
+Ohio,New York,18,16
+Ohio,North Carolina,8,4
+Ohio,Ohio,3274,11965
+Ohio,Oregon,24,13
+Ohio,Pennsylvania,124,229
+Ohio,Washington,0,1
+Ohio,West Virginia,0,77
+Ohio,Wisconsin,0,10
+Oklahoma,Alabama,43,90
+Oklahoma,Colorado,16,25
+Oklahoma,Georgia,15,4
+Oklahoma,Idaho,11,28
+Oklahoma,Indiana,81,89
+Oklahoma,Kansas,68,101
+Oklahoma,Michigan,50,123
+Oklahoma,Mississippi,56,264
+Oklahoma,Missouri,44,55
+Oklahoma,Ohio,51,127
+Oklahoma,Oklahoma,5333,15819
+Oklahoma,South Carolina,28,19
+Oklahoma,Tennessee,28,22
+Oklahoma,Texas,1111,2855
+Oregon,Alaska,10,3
+Oregon,Idaho,5,2
+Oregon,Montana,6,5
+Oregon,Oregon,676,2409
+Oregon,Washington,59,45
+Pennsylvania,Arizona,7,3
+Pennsylvania,California,32,14
+Pennsylvania,Connecticut,128,25
+Pennsylvania,Georgia,48,17
+Pennsylvania,Idaho,0,1
+Pennsylvania,Illinois,93,55
+Pennsylvania,Indiana,0,33
+Pennsylvania,Iowa,37,32
+Pennsylvania,Kentucky,24,12
+Pennsylvania,Louisiana,0,8
+Pennsylvania,Maryland,114,191
+Pennsylvania,Michigan,61,39
+Pennsylvania,Minnesota,15,7
+Pennsylvania,Missouri,18,12
+Pennsylvania,New Jersey,258,99
+Pennsylvania,New York,546,382
+Pennsylvania,North Carolina,29,14
+Pennsylvania,Ohio,349,235
+Pennsylvania,Oklahoma,0,5
+Pennsylvania,Pennsylvania,5776,12699
+Pennsylvania,Rhode Island,71,29
+Pennsylvania,Tennessee,43,24
+Pennsylvania,Vermont,30,84
+Pennsylvania,Virginia,0,50
+Pennsylvania,Wisconsin,46,47
+Pennsylvania,"Albany-Schenectady, NY CFS Area; New York",0,9
+Rhode Island,Connecticut,0,1
+Rhode Island,Rhode Island,60,762
+South Carolina,Georgia,71,49
+South Carolina,Illinois,4,1
+South Carolina,New Jersey,9,6
+South Carolina,North Carolina,204,208
+South Carolina,Ohio,6,2
+South Carolina,South Carolina,1472,3272
+South Carolina,Tennessee,10,14
+South Dakota,South Dakota,0,348
+Tennessee,Alabama,69,136
+Tennessee,Arizona,3,1
+Tennessee,Arkansas,80,196
+Tennessee,Florida,9,4
+Tennessee,Illinois,4,1
+Tennessee,Mississippi,0,229
+Tennessee,Tennessee,1759,5148
+Tennessee,Wisconsin,6,3
+Texas,California,793,962
+Texas,Illinois,443,745
+Texas,Louisiana,2384,4616
+Texas,Nebraska,15,4
+Texas,New York,4,2
+Texas,North Carolina,23,14
+Texas,Pennsylvania,667,972
+Texas,Tennessee,44,16
+Texas,Texas,71203,134350
+Texas,Virginia,3,1
+Texas,"Corpus Christi-Kingsville-Alice, TX CFS Area; Texas",3071,15404
+Utah,Arizona,10,13
+Utah,Colorado,27,60
+Utah,Nebraska,3,3
+Utah,Oklahoma,32,626
+Utah,Utah,1192,6408
+Vermont,Vermont,454,1186
+Virginia,North Carolina,0,23
+Virginia,Virginia,2513,6526
+Washington,Washington,11174,7983
+West Virginia,Indiana,0,26
+West Virginia,Maryland,39,102
+West Virginia,Michigan,175,494
+West Virginia,Minnesota,2,3
+West Virginia,New Jersey,0,4
+West Virginia,Ohio,55,93
+West Virginia,Tennessee,0,9
+Wisconsin,Arizona,6,1
+Wisconsin,California,18,4
+Wisconsin,Georgia,3,1
+Wisconsin,Indiana,0,1
+Wisconsin,Michigan,0,203
+Wisconsin,Minnesota,163,393
+Wisconsin,Missouri,10,3
+Wisconsin,Nebraska,3,1
+Wisconsin,New Jersey,7,2
+Wisconsin,Tennessee,3,1
+Wisconsin,Texas,51,132
+Wisconsin,Virginia,0,2
+Wisconsin,Washington,5,1
+Wisconsin,Wisconsin,1942,2190
+Wyoming,California,3,2
+Wyoming,Colorado,0,108
+Wyoming,Idaho,2,2
+Wyoming,Kansas,1,1
+Wyoming,Minnesota,2,1
+Wyoming,Montana,14,11
+Wyoming,North Dakota,1,1
+Wyoming,Oregon,2,1
+Wyoming,Utah,5,3
+Wyoming,Washington,5,2
+Wyoming,Wyoming,807,2767
