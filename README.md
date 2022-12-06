@@ -10,7 +10,8 @@ The scripts are written in Python (Version 3.8.5) using Jupyter Notebooks. Addit
 Access to the ReEDS model GitHub can be requested from the NREL website (https://www.nrel.gov/analysis/reeds/request-access.html) and the annual Stanfard Scenarios can be downloaded from the Scenario Viewer (https://scenarioviewer.nrel.gov/). The JEDI model can be downloaded from the NREL website (https://www.nrel.gov/analysis/jedi/models.html). The following files need to be placed in the correct directories in order for this analysis to run,
 - The complete suite of the JEDI models should be placed in directory <code>data/JEDI</code> which needs to be created. The list of the JEDI model technologies used in Xie et al. and the corresponding model versions can be found in the Supplementary Information. The existing file <code>analysis/1_ReEDS_to_JEDI/tech_specs.xlsx</code> shows the locations of the input project specification cells and those of the output cells indicating the job creation by sector.
 - The the ReEDS model outputs should be placed in directory <code>data/ReEDS</code>. The files should follow the format of the Standard Scenarios like the dummy scenarios in the folder. 
-- The transmission assumptions from the ReEDS model <code>ReEDS_OpenAccess-main/inputs/transmission</code> are used in this analysis. This entire directory should be placed in <code>data/ReEDS/transmission</code> here. 
+- The ReEDS transmission assumptions located in <code>ReEDS_OpenAccess-main/inputs/transmission</code> are used in this analysis. This entire directory should be placed in <code>data/ReEDS/transmission</code> here. 
+- The ReEDS assumption on construction time in file <code>ReEDS_OpenAccess-main/inputs/construction_times/construction_times_default.csv</code> is also used in this analysis. This file should be places in <code>data/ReEDS</code> here.
 
 ## Running the Analysis
 ### ReEDS to JEDI 
