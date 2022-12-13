@@ -1,4 +1,4 @@
-# distributive-employment
+# Low Carbon Transition Employment Distribution (LoCaTED) Model
 This GitHub repository contains the source code to evaluate the distributive emeployment impacts in the US state-level electricity systems. The analysis framework compiles open-source models and pubicly available demographic data to evaluate how the low carbon transition may impact the sectoral, skill-level, and gender composition of the workforce. The open-source models are the Regional Energy Deployment System (ReEDS) and Jobs and Economic Development Impact (JEDI) models developed by the National Renewable Energy Laboratory (NREL). More detailed descriptions of the framework and data sources can be found in the Methods section of Xie et al. 
 
 Any correspondance can be made to Judy Xie: j.xie20@imperial.ac.uk
